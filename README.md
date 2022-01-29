@@ -1,1 +1,1 @@
-# restaurant_reviews
+# restaurant_review
